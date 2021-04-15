@@ -76,3 +76,4 @@ async def test_basic_asgi_client(app):
 - Create convenience decorators to inject `TestManager`
 - Add more testing from Sanic core to make sure test clients are robust
 - Add ability for reusable servers in sync testing instead of destroying them on every call
+
